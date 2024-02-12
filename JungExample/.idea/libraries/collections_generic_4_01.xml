@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="collections-generic-4.01">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/collections-generic-4.01.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/colt-1.2.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/concurrent-1.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/j3d-core-1.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jung-3d-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jung-3d-demos-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jung-algorithms-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jung-api-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jung-graph-impl-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jung-io-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jung-jai-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jung-jai-samples-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jung-samples-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jung-visualization-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/stax-api-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/vecmath-1.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/wstx-asl-3.2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
